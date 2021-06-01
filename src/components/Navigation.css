@@ -1,0 +1,43 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(95, 4, 4);
+    padding: 16px 18px;
+    font-size: 12px;
+    text-transform: uppercase;
+   
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color:rgb(228, 0, 159);
+}
+.btn-help {
+    padding: 5px 16px;
+    border-radius: 35px;
+    font-size: 12px;
+    background-color: black;
+    color: #fff;
+    margin: 7px 10px;
+    border:1px solid white;
+    cursor: pointer;
+}
+.btn-help:hover {
+    background: linear-gradient(rgb(236, 0, 98),     rgb(219, 9, 202));
+}
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color: yellow;
+}
+
+    
+  
+.checkFloat{
+    background-color: rgb(73, 174, 187);
+    overflow: hidden;
+}
+.btn-s{
+    float: right;
+    padding: 2px 18px;
+    margin-right: 40px;
+    font-size: 13px;
+    border: 1px solid rgb(42, 168, 206);
+    background:linear-gradient(rgb(73, 174, 187),     rgb(81, 18, 94)) ;
+    color: rgb(206, 190, 190);
+}
